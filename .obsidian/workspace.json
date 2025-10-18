@@ -6,7 +6,7 @@
       {
         "id": "0948e2a60a7ae357",
         "type": "tabs",
-        "dimension": 58.7708830548926,
+        "dimension": 80.84291187739464,
         "children": [
           {
             "id": "ea3e1d7fdc34eac1",
@@ -16,7 +16,17 @@
               "state": {
                 "file": "2025.10.18/Review/Tim.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Tim"
@@ -27,7 +37,7 @@
       {
         "id": "b999e05c6185b514",
         "type": "tabs",
-        "dimension": 41.2291169451074,
+        "dimension": 19.157088122605366,
         "children": [
           {
             "id": "2f82fee11e3fbdcb",
@@ -112,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "2025.10.18/Review/Tim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "Tim 的反向链接列表"
             }
           },
           {
@@ -184,7 +194,9 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "publish:发布更改": false
     }
   },
   "active": "ea3e1d7fdc34eac1",
@@ -197,13 +209,14 @@
     "2025.10.18/Review/Alex.md",
     "2025.10.18/Review/Tom.md",
     "2025.10.18/Review/Tim.md",
+    "2025.10.18/Review/_Summary.md",
+    "2025.10.18/Img/Alex.jpg",
     "Student/Date/2025-10-18.md",
     "Student/Date",
     "Student/Alex.md",
     "Student",
     "Date/2025-10-18.md",
     "Date",
-    "2025.10.18/Img/Alex.jpg",
     "2025.10.18/Img/James.jpg",
     "2025.10.18/Img/Amy.jpg",
     "2025.10.18/Molly.jpg",
