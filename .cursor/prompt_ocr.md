@@ -24,7 +24,7 @@
 
 4. **输出 Markdown 文件**  
    - 从图片文件名中自动提取学生名，例如：`Lucy_essay.jpg` → 学生名 `Lucy`。  
-   - 文件命名格式：`Review/Lucy_essay.md`（与图片同名）。  
+   - 文件命名格式：`Review/Lucy_essay.md`（与图片同名）。 放到Img同级的Review目录下 
    - 文件内容结构如下：  
 
 [[Student/{{name}}]]
