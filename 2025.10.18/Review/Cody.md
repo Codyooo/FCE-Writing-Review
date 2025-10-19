@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cody
+---
+
+
 [[Student/Cody]]
 [[Level/]]
 [[Date/2025-10-18]]

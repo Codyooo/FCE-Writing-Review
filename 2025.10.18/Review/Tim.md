@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tim
+---
+
 [[Student/Tim]]
 [[Level/]]
 [[Date/2025-10-18]]

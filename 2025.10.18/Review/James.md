@@ -1,3 +1,10 @@
+---
+layout: default
+title: James
+---
+
+
+
 [[Student/James]]
 [[Level/]]
 [[Date/2025-10-18]]

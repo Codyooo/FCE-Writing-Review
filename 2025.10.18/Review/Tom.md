@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tom
+---
+
 [[Student/Tom]]
 [[Level/]]
 [[Date/2025-10-18]]

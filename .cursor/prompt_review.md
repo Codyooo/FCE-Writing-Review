@@ -17,7 +17,7 @@
 
 ### ❌ 错误批注（Error Annotations）
 
-1. **不要修改学生原文内容**（包括拼写、语法、标点、大小写、空格）。  
+1. **在原文内容上批注，不要修改学生原文内容，不要只把问题单独拿出来批注**（包括拼写、语法、标点、大小写、空格）。  
    仅在错误部分**后方追加批注**。  
 
 2. **错误标注规则：**
@@ -35,7 +35,7 @@
 5. **所有批注内容必须放在 callout 块中：**
    ```markdown
    > [!abstract]+ 批注
-   > 原文带标注内容（就地加粗错误 + 红色括注 + 天蓝亮点）……
+   > 原文带标注内容（就地加粗错误 + 红色括注 + 天蓝色下划线亮点）……
    ```
 
 6. **错误类型参考**：  
@@ -63,7 +63,7 @@
 
 ---
 
-### 🏆 等级评估（Level Assessment / Writing Evaluation）
+### 🏆 等级评估（Level Assessment / Writing Evaluation）  
 
 参考知识库中的 `FCE_Writing_Rubric.md` 或 `PET_Writing_Rubric.md` 文件，生成下列表格：  
 
@@ -124,11 +124,15 @@
 
 ---
 ### ❌ 错误批注（Error Annotations）
-> [!abstract]- 批注
-> Energy is very important in our life. We can use it for many things...
-> There are many ways to save <span style="color:red">（表达：应为 save energy）</span> every day.
-> <span style="color:deepskyblue; text-decoration: underline;">What's more</span>, I sometimes read printed books...
 
+> [!abstract]+ 批注
+> Do you believe that there are many young people about 14 or 15 years old who are famous pop stars? Some of them get **well-knowned** <span style="color:red">（词形：well-known）</span> by making videos on social media. Some of them become famous by singing in front of a large number of people. In my opinion, being this kind of **person** <span style="color:deepskyblue; text-decoration: underline;">（用词自然）</span> isn't a simple thing.
+>
+> One of the reasons is that if you want to let more people remember you, you must learn or improve some skills first. Doing this is difficult but important. And then, you should find some good ways to make you special and hard to forget in others' **heart** <span style="color:red">（名词：hearts）</span>. For example, my friend Lucy is **a teenage pop stars** <span style="color:red">（数一致：a teenage pop star）</span>, she said she practised singing for many hours every day, even **she** <span style="color:red">（连接：even when she）</span> had a fever.
+>
+> What's more, teenage pop stars also influence their fans. If a star loves dancing, the fans may get interested in dancing too, and maybe someone can find the talent when **she is trying** <span style="color:red">（指代不清：they are trying）</span>. Besides, they can learn from their favourite pop stars and be a kind and successful person.
+>
+> In short, teenage pop stars can continue their activities, but I think they and their fans should pay more attention **on** <span style="color:red">（介词：to）</span> studying and school classes.
 
 ### 🧾 Error Summary
 | 原句 | 建议改法 | 中文解释 |

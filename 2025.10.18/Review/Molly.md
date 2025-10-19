@@ -1,3 +1,9 @@
+---
+layout: default
+title: Molly
+---
+
+
 [[Student/Molly]]
 [[Level/]]
 [[Date/2025-10-18]]

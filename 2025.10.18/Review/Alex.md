@@ -1,3 +1,8 @@
+---
+layout: default
+title: Alex
+---
+
 [[Student/Alex]]
 [[Level/]]
 [[Date/2025-10-18]]

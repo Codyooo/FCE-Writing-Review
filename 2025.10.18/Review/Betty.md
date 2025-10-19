@@ -1,3 +1,8 @@
+---
+layout: default
+title: Betty
+---
+
 [[Student/Betty]]
 [[Level/]]
 [[Date/2025-10-18]]
